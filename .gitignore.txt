@@ -1,0 +1,14 @@
+# Ignore class files
+.class
+
+# Ignore settings folder
+.settings
+
+# Ignore all text files
+*.txt
+
+# Ignore classpath file
+.classpath
+
+# Ignore settings folder
+bin
